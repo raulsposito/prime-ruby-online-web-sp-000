@@ -1,6 +1,7 @@
 # Add  code here!
-def prime?()
-  if 
+def prime?(array)
+  array.each do |i|
+  if i / i and 
   
   
 end
